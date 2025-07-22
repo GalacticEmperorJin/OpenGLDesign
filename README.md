@@ -4,3 +4,6 @@ The assignment is to explore the fundementals of computer graphics by using pyth
 
 ## DEMO
 
+<p align="center">
+  <img src="DEMO.gif" alt="animated" />
+</p>
