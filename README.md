@@ -5,5 +5,5 @@ The assignment is to explore the fundementals of computer graphics by using pyth
 ## DEMO
 
 <p align="center">
-  <img src="DEMO.jpg" alt="animated" />
+  <img src="Demo.jpg" alt="animated" />
 </p>
